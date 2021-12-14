@@ -1,11 +1,15 @@
 #wrapper{
     width: 80%;
-    background-color:rgba(138, 211, 224, 0.61);
-    margin: 0 auto;
+    background-color:rgba(0, 0, 0, 0.267);
+    margin-top: 10%;
+    margin-left: 8%;
+    margin-right: 10%;
     padding: 2%;
 }
 body{
-    background-color:lightgray;
+    background-image: url(../img/pexels-gdtography-911738.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
 }
@@ -47,4 +51,13 @@ h1{
     width: 19vw;
     opacity: 1;
     border: 2px whitesmoke solid;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 1.5%;
+    margin-left: 25%;
+}
+a:hover{
+    background-color: rgba(211, 211, 211, 0.623);
 }
