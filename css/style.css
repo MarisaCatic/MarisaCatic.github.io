@@ -1,3 +1,8 @@
+@media screen and (max-width: 100%) {
+    .bild {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+}
 #wrapper{
     width: 80%;
     background-color:rgba(0, 0, 0, 0.267);
@@ -61,3 +66,4 @@ a{
 a:hover{
     background-color: rgba(211, 211, 211, 0.623);
 }
+
