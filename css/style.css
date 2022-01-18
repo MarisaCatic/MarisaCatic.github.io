@@ -2,6 +2,12 @@
     #row {
       flex-direction: column;
     }
+    .test2{
+        margin: 0 auto 0 auto;
+    }
+    #pic3{
+        margin: 0 auto 0 auto;
+    }
 }
 #wrapper{
     width: 1010x;
@@ -22,8 +28,8 @@ body{
     padding: 2%;
 }
 .bild > img{
-    width: 18vw;
-    height: 25vh;
+    width: 90%;
+    height: auto;
     display: block;
     opacity: 0.3;
 }
@@ -50,8 +56,8 @@ h1{
 }
 #pic3 > img{
     box-shadow: 5px 5px 45px white;
-    height: 22vh;
-    width: 19vw;
+    height: auto;
+    width: 90%;
     opacity: 1;
     border: 2px whitesmoke solid;
 }
