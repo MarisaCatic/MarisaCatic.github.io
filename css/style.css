@@ -4,11 +4,9 @@
     }
 }
 #wrapper{
-    width: 80%;
+    width: 1010x;
     background-color:rgba(0, 0, 0, 0.267);
     margin-top: 10%;
-    margin-left: 8%;
-    margin-right: 10%;
     padding: 2%;
 }
 body{
@@ -24,8 +22,8 @@ body{
     padding: 2%;
 }
 .bild > img{
-    width: 12vw;
-    height: 19vh;
+    width: 18vw;
+    height: 25vh;
     display: block;
     opacity: 0.3;
 }
