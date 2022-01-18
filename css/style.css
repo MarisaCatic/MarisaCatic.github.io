@@ -1,6 +1,6 @@
-@media screen and (max-width: 100%) {
-    .bild {
-      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+@media screen and (max-width: 900px) {
+    #row {
+      flex-direction: column;
     }
 }
 #wrapper{
