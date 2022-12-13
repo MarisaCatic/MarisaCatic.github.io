@@ -31,8 +31,7 @@ body{
     padding: 2%;
 }
 .bild > img{
-    width: 40%;
-    height: auto;
+    width: 20%;
     display: block;
     opacity: 0.3;
 }
