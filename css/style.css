@@ -31,7 +31,7 @@ body{
     padding: 2%;
 }
 .bild > img{
-    width: 40%;
+    width: 50%;
     display: block;
     opacity: 0.3;
 }
@@ -40,13 +40,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 50%;
-    margin-top: 10%;
     width: 90%;
     margin: 0.1%;
-}
-.bild{
-    width: auto;
-    height: auto;
 }
 h1{
     text-align: center;
